@@ -8,4 +8,4 @@ and then calculated the accuracy score of dataset. Accuracy of training data is 
 
 
 
-![titanic]
+
